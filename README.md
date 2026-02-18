@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=Иванцов%20Никита&fontSize=60&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20@atikin90&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=Иванцов%20Никита&fontSize=60&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Python%20Developer%20|%20@atikin90&descSize=18&descAlignY=55" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
