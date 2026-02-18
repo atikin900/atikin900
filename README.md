@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Иванцов%20Никита&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=@atikin900&descSize=25&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Иванцов%20Никита&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=@atikin90&descSize=25&descAlignY=55" width="100%"/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -19,7 +19,7 @@
 <pre>
 ┌─────────────────────────────────────────────────┐
 │ root@github:~$ whoami                           │
-│ > atikin900                                     │
+│ > atikin90                                      │
 │ root@github:~$ cat /proc/role                   │
 │ > Full-Stack Developer | Python | JavaScript    │
 │ root@github:~$ uptime                           │
@@ -27,15 +27,7 @@
 └─────────────────────────────────────────────────┘
 </pre>
 
-<img src="https://media.tenor.com/prpl-hak-gif-10146939309719028637.gif" width="700">
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./assets/nature.jpg" width="400">
+<img src="https://media1.tenor.com/m/prpl-hak-gif-10146939309719028637/prpl.gif" width="700">
 
 </div>
 
@@ -114,8 +106,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atikin900&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=ff0080&currStreakLabel=00ff41" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikin900&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=00ff41&icon_color=ff0080" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atikin90&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=ff0080&currStreakLabel=00ff41" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikin90&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=00ff41&icon_color=ff0080" width="49%" />
 
 </div>
 
@@ -125,7 +117,7 @@
 
 ## 📈 ГРАФ АКТИВНОСТИ
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atikin900&theme=react-dark&hide_border=true&bg_color=0D1117&color=00ff41&line=ff0080&point=00ff41" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atikin90&theme=react-dark&hide_border=true&bg_color=0D1117&color=00ff41&line=ff0080&point=00ff41" width="100%"/>
 
 </div>
 
@@ -136,9 +128,9 @@
 ## 🐍 CONTRIBUTION SNAKE
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atikin900/atikin900/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atikin900/atikin900/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atikin900/atikin900/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atikin90/atikin90/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atikin90/atikin90/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atikin90/atikin90/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -208,6 +200,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=atikin900&color=00ff41&style=flat-square&label=PROFILE+VIEWS" />
+<img src="./assets/nature.jpg" width="600">
+
+<img src="https://komarev.com/ghpvc/?username=atikin90&color=00ff41&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
