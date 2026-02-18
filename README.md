@@ -27,7 +27,7 @@
 └─────────────────────────────────────────────────┘
 </pre>
 
-<img src="https://media1.tenor.com/m/prpl-hak-gif-10146939309719028637/prpl.gif" width="700">
+<img src="https://media.tenor.com/prpl-hak-gif-10146939309719028637AAAAM/prpl.gif" width="700">
 
 </div>
 
