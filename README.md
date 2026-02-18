@@ -53,55 +53,66 @@
 
 ## 🎯 НАВЫКИ
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
 </div>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
+
+<div align="center">
 
 ### 🔥 Продвинутый
+<img src="https://img.shields.io/badge/Уровень-Эксперт-ff0080?style=for-the-badge" />
 
-```yaml
-HTML
-Веб-программирование
-Администрирование сайтов
+</div>
+
+```
+• HTML
+• Веб-программирование
+• Администрирование сайтов
 ```
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
+
+<div align="center">
 
 ### ⚙️ Средний
+<img src="https://img.shields.io/badge/Уровень-Опытный-00ff41?style=for-the-badge" />
 
-```yaml
-Разработка ПО
-Python
-JavaScript
-C#
-MySQL
-Django Framework
-Vue.js
-Node.js
-React
-SQLite
-1С: Предприятие
-Промт-инжиниринг
+</div>
+
+```
+• Разработка ПО        • Vue.js
+• Python               • Node.js
+• JavaScript           • React
+• C#                   • SQLite
+• MySQL                • 1С: Предприятие
+• Django Framework     • Промт-инжиниринг
 ```
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
+
+<div align="center">
 
 ### 📚 Базовый
+<img src="https://img.shields.io/badge/Уровень-Начальный-2AABEE?style=for-the-badge" />
 
-```yaml
-PostgreSQL
-Основы машинного обучения
+</div>
+
+```
+• PostgreSQL
+• Основы машинного обучения
 ```
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
