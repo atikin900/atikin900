@@ -1,58 +1,54 @@
-<!-- atikin900 profile README | RU | neon cyberpunk -->
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&text=ATIKIN900&fontAlign=50&fontAlignY=38&desc=аниме%20×%20киберпанк%20×%20терминал&descAlign=50&descAlignY=60&color=0:0b0f1a,100:1a1033"
-    alt="header"
-  />
-</p>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Иванцов%20Никита&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=@atikin900&descSize=25&descAlignY=55" width="100%"/>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&center=true&vCenter=true&width=900&lines=Никита+%7C+Разработчик+%28портфолио%29;Веб+%E2%80%A2+Backend+%E2%80%A2+Автоматизация+%E2%80%A2+Администрирование;Python+%2F+JS+%2F+C%23+%2F+SQL+%2F+Docker;ship+%3E+hype"
-    alt="typing"
-  />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/RU-Profile-0b0f1a?style=for-the-badge&logo=github&logoColor=ffffff" alt="ru" />
-  <img src="https://img.shields.io/badge/Anime-Neon-0b0f1a?style=for-the-badge&logo=protonvpn&logoColor=9ece6a" alt="anime" />
-  <img src="https://img.shields.io/badge/Cyberpunk-Terminal-0b0f1a?style=for-the-badge&logo=gnubash&logoColor=f7768e" alt="cp" />
-  <img src="https://komarev.com/ghpvc/?username=atikin900&style=for-the-badge&color=0b0f1a" alt="views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7aa2f7,50:f7768e,100:9ece6a" alt="divider" />
-</p>
-
-<pre align="center">
-┌──(nikita㉿atikin900)-[~/profile]
-├─ роль: разработчик (портфолио)
-├─ фокус: веб • backend • автоматизация • администрирование
-└─ принцип: ship &gt; hype
+<!-- TERMINAL CARD -->
+<pre>
+┌─────────────────────────────────────────────────┐
+│ root@github:~$ whoami                           │
+│ > atikin900                                     │
+│ root@github:~$ cat /proc/role                   │
+│ > Full-Stack Developer | Python | JavaScript    │
+│ root@github:~$ uptime                           │
+│ > Building digital solutions since 2020         │
+└─────────────────────────────────────────────────┘
 </pre>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7aa2f7,50:f7768e,100:9ece6a" alt="divider" />
-</p>
+</div>
 
-## Стек
+---
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,nodejs,react,vue,django,mysql,sqlite,postgres,git,githubactions,linux,docker&theme=dark"
-    alt="stack"
-  />
-</p>
+<div align="center">
 
-## Навыки
+## ⚡ ТЕХНОЛОГИЧЕСКИЙ СТЕК
 
-**Продвинутый уровень**
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql,django,vue,nodejs,react,sqlite,postgres&theme=dark&perline=6" />
+
+</div>
+
+---
+
+## 🎯 НАВЫКИ
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔥 Продвинутый
+
+```yaml
 - HTML
 - Веб-программирование
 - Администрирование сайтов
+```
 
-**Средний уровень**
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ Средний
+
+```yaml
 - Разработка ПО
 - Python
 - JavaScript
@@ -65,73 +61,133 @@
 - SQLite
 - 1С: Предприятие
 - Промт-инжиниринг
+```
 
-**Базовый уровень**
+</td>
+<td width="33%" valign="top">
+
+### 📚 Базовый
+
+```yaml
 - PostgreSQL
 - Основы машинного обучения
+```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7aa2f7,50:f7768e,100:9ece6a" alt="divider" />
-</p>
+</td>
+</tr>
+</table>
 
-## Трофеи
+---
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=atikin900&theme=tokyonight&no-frame=true&row=1&column=6"
-    alt="trophies"
-  />
-</p>
+<div align="center">
 
-## Streak
+## 📊 АКТИВНОСТЬ
 
-<p align="center">
-  <img
-    height="180"
-    src="https://streak-stats.demolab.com?user=atikin900&theme=tokyonight&hide_border=true"
-    alt="streak"
-  />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atikin900&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=ff0080&currStreakLabel=00ff41" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikin900&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=00ff41&icon_color=ff0080" width="49%" />
 
-## Языки
+</div>
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikin900&layout=compact&theme=tokyonight&hide_border=true"
-    alt="langs"
-  />
-</p>
+---
 
-## Граф активности
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=atikin900&theme=tokyo-night&hide_border=true"
-    alt="graph"
-  />
-</p>
+## 📈 ГРАФ АКТИВНОСТИ
 
-## Snake
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atikin900&theme=react-dark&hide_border=true&bg_color=0D1117&color=00ff41&line=ff0080&point=00ff41" width="100%"/>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/atikin900/atikin900/output/snake.svg"
-    alt="snake"
-  />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7aa2f7,50:f7768e,100:9ece6a" alt="divider" />
-</p>
+---
 
-## Контакты
+<div align="center">
 
-<p align="center">
-  <a href="https://t.me/USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-0b0f1a?style=for-the-badge&logo=telegram&logoColor=7dcfff" alt="tg" />
-  </a>
-  <a href="mailto:EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-0b0f1a?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="mail" />
-  </a>
-</p>
+## 🐍 CONTRIBUTION SNAKE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atikin900/atikin900/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atikin900/atikin900/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atikin900/atikin900/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📌 ЗАКРЕПЛЕННЫЕ ПРОЕКТЫ
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Проект 1
+```
+Описание проекта
+Стек: Python, Django, PostgreSQL
+```
+[Перейти к репозиторию →](#)
+
+</td>
+<td width="50%">
+
+### 🚀 Проект 2
+```
+Описание проекта
+Стек: JavaScript, Vue.js, Node.js
+```
+[Перейти к репозиторию →](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚀 Проект 3
+```
+Описание проекта
+Стек: React, MySQL
+```
+[Перейти к репозиторию →](#)
+
+</td>
+<td width="50%">
+
+### 🚀 Проект 4
+```
+Описание проекта
+Стек: C#, SQLite
+```
+[Перейти к репозиторию →](#)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📬 КОНТАКТЫ
+
+<a href="https://t.me/atikin90">
+  <img src="https://img.shields.io/badge/Telegram-00ff41?style=for-the-badge&logo=telegram&logoColor=black" />
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-ff0080?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=atikin900&color=00ff41&style=flat-square&label=PROFILE+VIEWS" />
+
+</div>
