@@ -33,7 +33,17 @@
 
 ## ⚡ ТЕХНОЛОГИЧЕСКИЙ СТЕК
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql,django,vue,nodejs,react,sqlite,postgres&theme=dark&perline=6" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue&theme=dark" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=python,nodejs,django,cs&theme=dark" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
+
+### Tools & Other
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
