@@ -69,7 +69,7 @@
 </div>
 
 ```
-• HTML
+• Разработка ПО
 • Веб-программирование
 • Администрирование сайтов
 ```
@@ -85,12 +85,12 @@
 </div>
 
 ```
-• Разработка ПО        • Vue.js
-• Python               • Node.js
-• JavaScript           • React
-• C#                   • SQLite
-• MySQL                • 1С: Предприятие
-• Django Framework     • Промт-инжиниринг
+• Python               • Vue.js
+• JavaScript           • Node.js
+• C#                   • React
+• MySQL                • SQLite
+• Django Framework     • 1С: Предприятие
+• Промт-инжиниринг
 ```
 
 </td>
